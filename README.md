@@ -61,8 +61,4 @@ streamlit run app.py
 
 The application opens in your browser at the local Streamlit URL.
 
-## Notes
 
-- The existing Streamlit interface and experiment logic have been separated into modules; the project does not require a separate API server.
-- Upload your own CSV from the Data tab or use the included synthetic sample data.
-- Do not commit private datasets, credentials, or Streamlit secrets.
